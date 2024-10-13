@@ -2383,7 +2383,7 @@ local Tabs = {
     Sh = Window:AddTab({ Title = "Shopping", Icon = "box" }),
     Main = Window:AddTab({ Title = "Main", Icon = "home" }),
     Qs = Window:AddTab({ Title = "Orther Farm", Icon = "baby" }), 
-    stack = Window:AddTab({ Title = "Quest", Icon = "package" }), 
+    stack = Window:AddTab({ Title = "Quest", Icon = "mouse" }), 
     Se = Window:AddTab({ Title = "Sea Event ", Icon = "cat" }),   
     St = Window:AddTab({ Title = "Status and Server", Icon = "timer" }),    
     Lc = Window:AddTab({ Title = "Teleport", Icon = "file" }),   
